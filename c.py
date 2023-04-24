@@ -30,4 +30,4 @@ def min_coin(coin,w):
 
 min_coin(coin,w)
 
-    
+    sd;'sd;d'
